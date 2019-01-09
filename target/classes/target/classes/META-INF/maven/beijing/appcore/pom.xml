@@ -8,9 +8,9 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>beijing</groupId>
-  <artifactId>inmemory-repository-adapter</artifactId>
+  <artifactId>appcore</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>inmemory-repository-adapter</name>
+  <name>appcore</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
